@@ -3,8 +3,7 @@ body {
     font-family: Verdana, sans-serif;
     text-align: center;
 }
-.foot {
-    color: Gray;
+p.foot {
     text-align: right;
 }
 h1{
@@ -23,4 +22,5 @@ p {
 h2 {
     Font-weight: 300;
     Font-size: 42px;
+    color: white;
 }

@@ -1,5 +1,18 @@
-html {
+body {
     background-color: black;
-    font-family: Verdana;
-    
+    font-family: Verdana, sans-serif;
+    text-align: center;
+}
+.foot {
+    color: Gray;
+    text-align: right;
+}
+h1{
+    font-size: 50px;
+    font-weight: normal;
+    color: white;
+}
+.down {
+    color: aquamarine;
+    font-size: 16px;
 }

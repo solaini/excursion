@@ -16,3 +16,11 @@ h1{
     color: aquamarine;
     font-size: 16px;
 }
+p {
+    font-size: 21px;
+    color: gray;
+}
+h2 {
+    Font-weight: 300;
+    Font-size: 42px;
+}
